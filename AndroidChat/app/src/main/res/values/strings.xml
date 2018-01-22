@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">test_chat_tcp</string>
+    <string name="welcome_to_my_chat">Welcome to my chat</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="register2">Create a new account</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log in</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="rate_us">Rate us!</string>
+    <string name="this_is_main_page">Main page</string>
+    <string name="submit_rating">Submit</string>
+    <string name="open_chat">Open Chat</string>
+    <string name="write_a_reply">Write a reply</string>
+    <string name="similar_webpages">Similar webpages</string>
+    <string name="sendmsg">send</string>
+    <string name="score">Score</string>
+    <string name="global_chat_history">Global chat history</string>
+    <string name="my_chat_history">My chat history</string>
+</resources>
