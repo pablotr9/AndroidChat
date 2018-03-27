@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
     private Button webpages;
 
 
-    /// hay que añadir que acceda almacenamiento
-    // y que si no tiene conexion que no puede usar la app
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
